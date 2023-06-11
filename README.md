@@ -11,22 +11,27 @@
 <img src="./images-readme/Step2.png"/>
 
 ## Step 3:
-### Navigate to your blog's repository on your own GitHub, and press ```Upload Files```
+### Navigate to your blog's repository page, and press ```Upload Files```
 
 <img src="./images-readme/Step3.png"/>
 
 ## Step 4:
-### In your file explorer, navigate to the ```src```
-
+### Navigate to your blog's repository page again, and enter the ```assets``` folder
+### Delete your ```assets``` folder
 <img src="./images-readme/Step4.png"/>
 
 ## Step 5:
+### In your file explorer, navigate to the ```src```
+
+<img src="./images-readme/Step5.png"/>
+
+## Step 6:
 ### Add the files to your GitHub repo and press ```Commit changes```
 #### This folder is located within your extacted folder from earlier
 
-<img src="./images-readme/Step5.png"/>
+<img src="./images-readme/Step6.png"/>
 
-## Step 5:
+## Step 7:
 ### You're done! Cloudflare should notice the changes and automatically update your blog.
 
-<img src="./images-readme/Step5.png"/>
+<img src="./images-readme/Step7.png"/>
