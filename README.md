@@ -19,7 +19,7 @@
 
 ## Step 4:
 ### Navigate to your blog's repository page again, and press ```Upload Files```
-
+#### MAKE SURE YOU'RE IN THE ROOT OF THE REPO BEFORE PRESSING UPLOAD
 <img src="./images-readme/Step3.png"/>
 
 ## Step 5:
