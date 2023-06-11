@@ -28,7 +28,7 @@
 <img src="./images-readme/Step5.png"/>
 
 ## Step 6:
-### Add the files to your GitHub repo and press ```Commit changes```
+### Add the files from ```src``` to your GitHub repo and press ```Commit changes```
 #### This folder is located within your extacted folder from earlier
 
 <img src="./images-readme/Step6.png"/>
