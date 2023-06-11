@@ -8,17 +8,19 @@
 ## Step 2:
 ### Open the downloaded zip file and press ```Extract All```
 #### Keep the file explorer that pops up open
+
 <img src="./images-readme/Step2.png"/>
 
 ## Step 3:
-### Navigate to your blog's repository page, and press ```Upload Files```
+### Navigate to your blog's repository page, and enter the ```assets``` folder
+### Delete your ```assets``` folder
 
-<img src="./images-readme/Step3.png"/>
+<img src="./images-readme/Step4.png"/>
 
 ## Step 4:
-### Navigate to your blog's repository page again, and enter the ```assets``` folder
-### Delete your ```assets``` folder
-<img src="./images-readme/Step4.png"/>
+### Navigate to your blog's repository page again, and press ```Upload Files```
+
+<img src="./images-readme/Step3.png"/>
 
 ## Step 5:
 ### In your file explorer, navigate to the ```src```
