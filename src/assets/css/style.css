@@ -159,7 +159,7 @@ h1 {
 }
 
 /* Section Styles */
-    section {
+section {
     padding-bottom: 11em;
 }
 
@@ -169,4 +169,54 @@ section h1 {
 
 section p {
     color: #ffffff;
+}
+
+/* About Styles */
+.about-panel {
+    display: flex;
+}
+
+.about-column-img {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.about-column-text
+{
+    flex: 2;
+    display: flex;
+    flex-direction: column;
+    padding: 25px;
+}
+
+.headshot {
+    width: 75%;
+    max-width: 500px;
+    border-radius: 50%;
+}
+
+.about-text {
+    font-family: 'Staatliches', display;
+    font-size: 1.5em;
+}
+
+/* Contact Styles */
+.contact-panel {
+    padding-top: 7.5%;
+    display: flex;
+    font-family: 'Staatliches', display;
+}
+
+.contact-column {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.contact-logo {
+    width: 100%;
+    max-width: 250px;
 }
